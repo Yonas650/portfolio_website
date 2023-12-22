@@ -1,9 +1,8 @@
-/* Custom CSS for Additional Styling */
 body {
     background-image: url('bg.jpg');
     background-size: cover;
     background-position: center;
-    background-attachment: fixed; /* Optional: for a parallax-like effect */
+    background-attachment: fixed; /* For a parallax-like effect */
 }
 
 /* Custom Animations */
